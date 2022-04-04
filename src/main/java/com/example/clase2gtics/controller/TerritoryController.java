@@ -1,7 +1,6 @@
 package com.example.clase2gtics.controller;
 
 import com.example.clase2gtics.entity.Region;
-import com.example.clase2gtics.entity.Shipper;
 import com.example.clase2gtics.entity.Territory;
 import com.example.clase2gtics.repository.RegionRepository;
 import com.example.clase2gtics.repository.TerritoryRepository;
